@@ -1,0 +1,34 @@
+.side-container{
+  display: flex;
+}
+
+.joint{
+  width: 100%;
+}
+.mycard{
+  margin: 20px 50px;
+}
+.mainadda{
+  margin: 50px 170px;
+}
+.bot{
+  margin: 20px 5px;
+}
+.gap{
+  margin-top: 35px;
+}
+.welcom{
+  margin: 150px 0px;
+  color: #303030;
+}
+.gaps{
+  margin: 0px 3px;
+}
+.spinner{
+  margin-top: 10%;
+ 
+}
+.spinnercir{
+  width: 3rem;
+  height: 3rem;
+}
